@@ -4,5 +4,5 @@ __author__ = """Suhas Anjaria"""
 __email__ = 'anjaria.suhas@gmail.com'
 __version__ = '0.1.0'
 
-from data import charting,analytics
-from app import widgets
+from tdt.data import charting,analytics
+from tdt.app import widgets
